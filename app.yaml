@@ -1,0 +1,10 @@
+application: d-lang
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /testUrl1
+  script: testUrl1.py
+- url: /testUrl2
+  script: testUrl2.py
