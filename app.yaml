@@ -8,3 +8,5 @@ handlers:
   script: testUrl1.py
 - url: /testUrl2
   script: testUrl2.py
+- url: /testUrl3
+  script: testUrl3.py
